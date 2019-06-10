@@ -1,0 +1,14 @@
+com\samant\imagestorageservice\model\ImageFile.class
+com\samant\imagestorageservice\service\KafkaProducerService.class
+com\samant\imagestorageservice\ImageStorageServiceApplication.class
+com\samant\imagestorageservice\repository\ImageAlbumRespository.class
+com\samant\imagestorageservice\resource\ImageStorageResource.class
+com\samant\imagestorageservice\service\ImageStorageServiceImpl.class
+com\samant\imagestorageservice\exception\ImageStorgeServiceException.class
+com\samant\imagestorageservice\repository\ImageFileRepository.class
+com\samant\imagestorageservice\model\ImageAlbum.class
+com\samant\imagestorageservice\service\ImageStorageService.class
+com\samant\imagestorageservice\service\KafkaProducerServiceImpl.class
+com\samant\imagestorageservice\config\SwaggerConfig.class
+com\samant\imagestorageservice\config\KafkaConfig.class
+com\samant\imagestorageservice\payload\ImageFileResponse.class
